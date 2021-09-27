@@ -19,4 +19,4 @@ Repository Link: https://github.com/amuraco-dev/Work-Day-Scheduler
 URL Link: https://amuraco-dev.github.io/Work-Day-Scheduler/
 
 
-![Screenshot](https://imgur.com/a/BEnUhss)
+![Screenshot](<blockquote class="imgur-embed-pub" lang="en" data-id="a/BEnUhss" data-context="false" ><a href="//imgur.com/a/BEnUhss"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
